@@ -1,0 +1,11 @@
+{
+  "name": "jwt-authn-test-local",
+  "version": "0.0.1",
+  "description": "testing jwt-authn package through local npm link rather than through npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Anthony Dombrowski",
+  "license": "MIT"
+}
